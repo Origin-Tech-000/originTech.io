@@ -3,12 +3,15 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "9913579f1475930f2688e71877463164",
-"assets/AssetManifest.json": "c08a8493b7a09e3689db1355d700cef0",
-"assets/assets/bg.png": "471eef3fc3b4884ecc1fa84d3bb7e09d",
+const RESOURCES = {"assets/AssetManifest.bin": "119ea3107d939eaeabad07f889e3f4ff",
+"assets/AssetManifest.json": "867e9f3c312f17df4237559191773469",
+"assets/assets/8k.jpg": "9ddcf866f67290501da6d2a27879001d",
 "assets/assets/facebook.png": "a6a52ba8f18e96b213939a36591cf460",
 "assets/assets/fb.png": "586a5746986696687caa08b27a6b2bd0",
 "assets/assets/insta.png": "7398fff14e299bdab2dfac8ee5364730",
+"assets/assets/logo.jpg": "51bbd9fd27bb919ab7ec57e0b26c303e",
+"assets/assets/s.jpg": "1aba8cae5d19e690a2b28d227b8587ca",
+"assets/assets/st.jpg": "df77ce98c346ce9a4c4f5e78f8d3c598",
 "assets/assets/threads.png": "c50a8de05aaa5e6e3a3947825549ea0d",
 "assets/assets/twitter1.png": "002e03c5e759d787c2e7044ff0319dab",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
@@ -28,9 +31,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "9913579f1475930f2688e71877463164
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "8ec85eb3880ecdf1ba16267a4ebfa32a",
-"/": "8ec85eb3880ecdf1ba16267a4ebfa32a",
-"main.dart.js": "95c6f85e235af4b7faa1454a2fa84a6d",
+"index.html": "72c4b9c8a061e2d07a4cdd47300b8d52",
+"/": "72c4b9c8a061e2d07a4cdd47300b8d52",
+"main.dart.js": "422bb3912bdeb72a2c00e41c824605d5",
 "manifest.json": "3a759108186a0790b5a66c7ce3ba7c73",
 "version.json": "16e3a241b1cd80e95dc99421144494bc"};
 // The application shell files that are downloaded before a service worker can
